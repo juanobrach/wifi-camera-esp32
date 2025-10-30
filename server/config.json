@@ -1,0 +1,7 @@
+{
+  "ESP_STREAM_URL": "http://192.168.1.87:81/stream",
+  "SAMPLE_EVERY_SECONDS": 2.0,
+  "HF_MODEL": "google/vit-base-patch16-224",
+  "TOP_K": 5,
+  "HF_DEVICE": null
+}
