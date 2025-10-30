@@ -2,6 +2,10 @@
 
 This project runs the ESP32 Camera Web Server example adapted for ESP32‑S‑CAM/ESP32‑CAM. It’s wired and flashed using an Arduino UNO R3 as a USB‑serial bridge.
 
+
+<img width="1322" height="676" alt="camera_bb" src="https://github.com/user-attachments/assets/b6401121-c32a-445c-8968-904fd8cf28c1" />
+
+
 ## Hardware
 
 - ESP32‑S‑CAM / ESP32‑CAM (OV2640), PSRAM module
