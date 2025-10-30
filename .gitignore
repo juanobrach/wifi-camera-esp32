@@ -1,0 +1,35 @@
+# macOS
+.DS_Store
+
+# Editors/IDE
+.vscode
+.idea/
+*.code-workspace
+
+# Arduino/Build
+.build/
+build/
+.cache/
+.arduino*
+*.dSYM/
+
+# PlatformIO (if used)
+.pio/
+.pioenvs/
+.piolibdeps/
+
+# Python (esptool, etc.)
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Logs/temps
+*.log
+*.tmp
+*.swp
+
+# Binaries
+*.bin
+*.elf
+*.map
